@@ -13,13 +13,7 @@ Universita' di Roma Tor Vergata<br>
 <b>AA. 2021/2022</b>
 </p>
 </h2>
-<h3 class="titolo">benvenuti </h3>
-  <ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
-</ul>
+
     <table>
 <caption>
 <p>I miei dati</p>
