@@ -19,7 +19,7 @@
 <p>I miei dati</p>
 </caption>
 <thead>
-<tr><th>Colonna 1</th><th>Colonna 2</th></tr>
+<tr><th>Lunedì</th><th>Martedì</th><th>Mercoledì</th><th>Giovedì</th><th>Venerdì</th></tr>
 </thead>
 <tfoot>
 <tr><td>Totale 1</td><td>Totale 2</td></tr>
