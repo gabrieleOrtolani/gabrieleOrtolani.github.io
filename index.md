@@ -39,7 +39,7 @@ Universita' di Roma Tor Vergata<br>
 <tr><td>14:00-14:45</td>    <td><</td><td>Martedì</td><td>C1   </td><td>Giovedì</td><td>Venerdì</td></tr>
 <tr><td>15:00-15:45</td>    <td><</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
 <tr><td>16:00-16:45</td>    <td><</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>17:00-17:45</td><td>    <td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>17:00-17:45</td>    <td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
 
 </tbody>
 </table>
