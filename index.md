@@ -37,6 +37,8 @@ Universita' di Roma Tor Vergata<br>
 
 </tbody>
 </table>
+<li> <a href="http://160.80.86.93//public/didattica/2021-22/2-sem/triennale.pdf">Link</a> per consultare l'orario delle triennali 
+</li>
 <ul class= "a">
 
 <div id="myDiv">
