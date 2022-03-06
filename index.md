@@ -32,7 +32,7 @@ Universita' di Roma Tor Vergata<br>
 </tfoot>
 <tbody>
 <tr><td>8:30-9:15</td><td>      </td><td>       </td><td>       </td><td>       </td><td>       </td></tr>
-<tr><td>9:30-10:15</td><td><td>      </td><td>       </td><td>       </td><td>       </td><td>       </td></tr>
+<tr><td>9:30-10:15</td><td>      </td><td>       </td><td>       </td><td>       </td><td>       </td></tr>
 <tr><td>10:30-11:15</td><td>      </td><td>       </td><td>       </td><td>       </td><td>       </td></tr>
 <tr><td>11:30-12:15</td><td>      </td><td>       </td><td>       </td><td>       </td><td>       </td></tr>
 <tr><td>12:30-13:15</td><td>      </td><td>       </td><td>       </td><td>       </td><td>       </td></tr>
