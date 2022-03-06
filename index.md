@@ -19,10 +19,10 @@
 <p>I miei dati</p>
 </caption>
 <thead>
-<tr><th>Lunedì</th><th>Martedì</th><th>Mercoledì</th><th>Giovedì</th><th>Venerdì</th></tr>
+<tr><th>Orario</th><th>Lunedì</th><th>Martedì</th><th>Mercoledì</th><th>Giovedì</th><th>Venerdì</th></tr>
 </thead>
 <tfoot>
-<tr><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>        </td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
 </tfoot>
 <tbody>
 <tr><td>Dato 1,1</td><td>Dato 1,2</td></tr>
