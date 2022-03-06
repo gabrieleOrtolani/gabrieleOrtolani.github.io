@@ -7,7 +7,7 @@
 <body>
 <header>
 <div style="max-width:1000px;margin:0 auto;">
-<h3 class="titolo">Welcome </h3>
+<h3 class="titolo">benvenuti </h3>
   <ul>
   <li><a href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
