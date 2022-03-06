@@ -22,7 +22,7 @@
 <tr><th>Lunedì</th><th>Martedì</th><th>Mercoledì</th><th>Giovedì</th><th>Venerdì</th></tr>
 </thead>
 <tfoot>
-<tr><td>Totale 1</td><td>Totale 2</td></tr>
+<tr><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
 </tfoot>
 <tbody>
 <tr><td>Dato 1,1</td><td>Dato 1,2</td></tr>
