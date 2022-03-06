@@ -39,6 +39,11 @@ Universita' di Roma Tor Vergata<br>
 </table>
 <li> <a href="http://160.80.86.93//public/didattica/2021-22/2-sem/triennale.pdf">Link</a> per consultare l'orario delle triennali 
 </li>
+    <li> <a href="http://inginformatica.uniroma2.it/media/PdS-L-IngInf-RobAut2122.pdf">Link</a> per consultare piano di studi di Ing. Informatica -> Robotica 
+</li>
+    </li>
+    <li> <a href="http://inginformatica.uniroma2.it/media/PdS-L-IngInf-SwWeb2122.pdf">Link</a> per consultare piano di studi di Ing. Informatica -> Software
+</li>
 <ul class= "a">
 
 <div id="myDiv">
