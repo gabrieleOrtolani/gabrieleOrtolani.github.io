@@ -16,7 +16,7 @@ Universita' di Roma Tor Vergata<br>
 
 <table>
 <caption>
-<p>I miei dati</p>
+<p>Tabella con le aule libere ora per ora</p>
 </caption>
 <thead>
 <tr><th>Orario</th><th>Lunedì</th><th>Martedì</th><th>Mercoledì</th><th>Giovedì</th><th>Venerdì</th></tr>
