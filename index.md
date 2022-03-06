@@ -32,14 +32,14 @@ Universita' di Roma Tor Vergata<br>
 </tfoot>
 <tbody>
 <tr><td>8:30-9:15</td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>9:30-10:15</td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>10:30-11:15</td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>11:30-12:15</td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>12:30-13:15</td><td>Lunedìleundihfuehirufh</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>14:00-14:45</td><td>Lunedì</td><td>Martedì</td><td>C1   </td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>15:00-15:45</td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>16:00-16:45</td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
-<tr><td>17:00-17:45</td><td>Lunedì</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>9:30-10:15</td>     <td><</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>10:30-11:15</td>    <td><</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>11:30-12:15</td>    <td><</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>12:30-13:15</td>    <td><leundihfuehirufh</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>14:00-14:45</td>    <td><</td><td>Martedì</td><td>C1   </td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>15:00-15:45</td>    <td><</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>16:00-16:45</td>    <td><</td><td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
+<tr><td>17:00-17:45</td><td>    <td>Martedì</td><td>Mercoledi</td><td>Giovedì</td><td>Venerdì</td></tr>
 
 </tbody>
 </table>
