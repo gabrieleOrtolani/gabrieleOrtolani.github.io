@@ -14,7 +14,7 @@ Universita' di Roma Tor Vergata<br>
 </p>
 </h2>
 
-    <table>
+<table>
 <caption>
 <p>I miei dati</p>
 </caption>
