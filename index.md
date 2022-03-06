@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-    <title>TTROVAULA</title>
     <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet" type="text/css">
 </head>
