@@ -45,6 +45,11 @@ Universita' di Roma Tor Vergata<br>
     <li> <a href="http://inginformatica.uniroma2.it/media/PdS-L-IngInf-SwWeb2122.pdf">Link</a> per consultare piano di studi di Ing. Informatica -> Software
 </li>
 <ul class= "a">
+<tr bgcolor="#BFFF00">
+<td> <b>Sockets</b> </td>
+<td> <a href="./prova.docx">download link</a> </td>
+<td> doc </td>
+</tr>
 
 <div id="myDiv">
 Gabriele Desing
