@@ -46,7 +46,7 @@ Universita' di Roma Tor Vergata<br>
 </li>
 <ul class= "a">
 <tr bgcolor="#BFFF00">
-<td> <b>DOCUMENTI</b> </td>
+<td>DOCUMENTI</td>
 <td> <a href="prova.docx">download link</a> </td>
 <td> doc </td>
 </tr>
